@@ -15,7 +15,8 @@ public class MainActivity extends Activity
 
     // Array of strings...
     String[] mobileArray = {"Android","IPhone","WindowsMobile","Blackberry",
-            "WebOS","Ubuntu","Windows7","Max OS X"};
+            "WebOS","Ubuntu","Windows7","Max OS X","PHP","Nodejs", ".Net","C#","C","C++","Java","Swift","Objective C"
+    ,"Python", "React Native"};
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
